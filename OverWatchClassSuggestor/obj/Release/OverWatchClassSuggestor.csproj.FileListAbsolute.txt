@@ -1,0 +1,8 @@
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Release\OverWatchClassSuggestor.exe.config
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Release\OverWatchClassSuggestor.exe
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Release\OverWatchClassSuggestor.pdb
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Release\OverWatchClassSuggestor.FormOverWatchClassSuggestor.resources
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Release\OverWatchClassSuggestor.Properties.Resources.resources
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Release\OverWatchClassSuggestor.csproj.GenerateResource.Cache
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Release\OverWatchClassSuggestor.exe
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Release\OverWatchClassSuggestor.pdb

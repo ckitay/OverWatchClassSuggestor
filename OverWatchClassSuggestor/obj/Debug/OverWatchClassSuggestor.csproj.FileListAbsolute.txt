@@ -1,0 +1,15 @@
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Debug\OverWatchClassSuggestor.exe.config
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.Properties.Resources.resources
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.csproj.GenerateResource.Cache
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Debug\OverWatchClassSuggestor.exe
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Debug\OverWatchClassSuggestor.pdb
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.exe
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.pdb
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.FormOverWatchClassSuggestor.resources
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Debug\dje-NE\OverWatchClassSuggestor.resources.dll
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.FormOverWatchClassSuggestor.dje-NE.resources
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\dje-NE\OverWatchClassSuggestor.resources.dll
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\bin\Debug\en\OverWatchClassSuggestor.resources.dll
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.FormOverWatchClassSuggestor.en.resources
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\en\OverWatchClassSuggestor.resources.dll
+C:\Users\Yogurt\Dropbox\Programming_Projects\OverWatchClassSuggestor\OverWatchClassSuggestor\obj\Debug\OverWatchClassSuggestor.csprojResolveAssemblyReference.cache
